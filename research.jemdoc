@@ -1,4 +1,9 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 
 == Publications
-- McCormack, A., Reid, N., Sartori, N., & Theivendran, S. A. (2019). A directional look at F‐tests. /Canadian Journal of Statistics/, 47(4), 619-627. [papers/directionaltesting.pdf arXiv] 
+- McCormack, A., Reid, N., Sartori, N., & Theivendran, S. A. (2019). A directional look at F tests. Canadian Journal of Statistics, 47(4), 619-627.\n
+ [https://arxiv.org/pdf/1808.03946.pdf arXiv]~~~[https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11515 CJS]
+
+== Preprints
+- McCormack, A., & Hoff, P. (2021). Equivariant Estimation of Frechet Means. arXiv preprint arXiv:2104.03397.\n
+[https://arxiv.org/pdf/2104.03397.pdf arXiv]
